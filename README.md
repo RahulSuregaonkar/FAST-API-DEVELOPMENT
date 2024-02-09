@@ -1,9 +1,32 @@
 # Backend clone  of social media app by using FastAPI
+
+Welcome to the FastAPI Social Media Backend Clone project! This project aims to provide a full-fledged API for a social media application using FastAPI, a modern, fast (high-performance) web framework for building APIs with Python 3.7+.
+
+### Features
+
+- **API Routes:** Define endpoints for user registration, authentication, posting, following, and more.
+- **Serialization/Deserialization:** Serialize and deserialize data to/from JSON format.
+- **Schema Validation:** Ensure data consistency and validity with Pydantic models.
+- **Database Integration:** Utilize SQL for data persistence.
+- **Testing with pytest:** Write test cases to ensure the functionality and reliability of the API.
+- **CI/CD Pipeline:** Automate the testing and deployment process using GitHub Actions.
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.7 or higher installed on your system.
+- Basic understanding of RESTful API concepts.
+- Familiarity with SQL databases.
+- Optional: GitHub account for utilizing GitHub Actions for CI/CD.
+
+
+
+
 # how to run locally
 First clone this repo by using following command
 ````
-
-git clone https://github.com/Sanjeev-Thiyagarajan/fastapi-course.git
+git clone my_github_repo_link
 
 ````
 then 
